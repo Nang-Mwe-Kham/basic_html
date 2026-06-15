@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #c6c6cb;
+}
+
+.content {
+  margin: auto;
+  max-width: 800px;
+}
+
+h1 {
+  font-size: 1.7em;
+  text-align: center;
+  background-color: #005f99;
+  color: white;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.about {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.hobbies-skills {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #005f99;
+  color: white;
+  padding: 5px;
+}
